@@ -32,7 +32,7 @@ Aqui estão alguns dos projetos em que estou trabalhando ou que desenvolvi recen
 
 ## 📈 Estatísticas do GitHub
 ![Estatísticas do GitHub de Davi](https://github-readme-stats.vercel.app/api?username=Davi-Ti&show_icons=true&theme=dracula)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Ti&layout=compact&theme=dracula) -->
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Ti&layout=compact&theme=dracula)
 
 ## ✨ Um Pouco Mais Sobre Mim
 
