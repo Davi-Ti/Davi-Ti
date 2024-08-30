@@ -17,11 +17,11 @@
 - **Certificações:**
   - Front-end em React
 
-<!-- ## 🚀 Projetos Recentes
+## 🚀 Projetos Recentes
 Aqui estão alguns dos projetos em que estou trabalhando ou que desenvolvi recentemente:
 - [📊 Projeto 1: Análise de Dados com Python](https://github.com/Davi-Ti/projeto1)
 - [💻 Projeto 2: Aplicação Web com React](https://github.com/Davi-Ti/projeto2)
-- [🔧 Projeto 3: Automação de Processos com Scripts Python](https://github.com/Davi-Ti/projeto3) -->
+- [🔧 Projeto 3: Automação de Processos com Scripts Python](https://github.com/Davi-Ti/projeto3)
 
 ## 🔧 Tecnologias e Ferramentas
 
@@ -30,7 +30,7 @@ Aqui estão alguns dos projetos em que estou trabalhando ou que desenvolvi recen
 - **Ferramentas:** Git, Docker, VSCode, Webpack
 - **Sistemas Operacionais:** Artix Linux
 
-<!-- ## 📈 Estatísticas do GitHub
+## 📈 Estatísticas do GitHub
 ![Estatísticas do GitHub de Davi](https://github-readme-stats.vercel.app/api?username=Davi-Ti&show_icons=true&theme=dracula)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Ti&layout=compact&theme=dracula) -->
 
