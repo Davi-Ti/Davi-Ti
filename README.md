@@ -3,7 +3,7 @@
 - 🏡 Visconde do Rio Branco, Minas Gerais, Brasil
 - 🎓 Estudante de Ciência de Dados na [Anhanguera Educacional](https://www.anhanguera.com)
 - 💻 Especialista em Suporte de TI na [Coopertruni Logística](https://www.coopertruni.com.br) (Dezembro de 2023 - Presente)
-- 📧 Contato: [davi@dv1.tech](mailto:davi.connect@outlook.com)
+- 📧 Contato: [davi.network@outlook.com](mailto:davi.network@outlook.com)
 - 💼 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/davi-oliveira-256798304)
 - 📸 Siga-me no [Instagram](https://www.instagram.com/odavi.br)
 
