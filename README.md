@@ -26,9 +26,9 @@ Aqui estão alguns dos projetos em que estou trabalhando ou que desenvolvi recen
 ## 🔧 Tecnologias e Ferramentas
 
 - **Linguagens:** JavaScript, TypeScript, Python
-- **Frameworks:** React.js, Redux.js
-- **Ferramentas:** Git, Docker, VSCode, Webpack
-- **Sistemas Operacionais:** Artix Linux
+- **Frameworks:** React.js, Redux.js, Pandas
+- **Ferramentas:** Git, Docker, VSCode, NVim, Linux, Pycharm, Obsidian 
+- **Sistemas Operacionais:** Arch Linux, Debian
 
 ## 📈 Estatísticas do GitHub
 ![Estatísticas do GitHub de Davi](https://github-readme-stats.vercel.app/api?username=Davi-Ti&show_icons=true&theme=dracula)
