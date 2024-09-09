@@ -26,7 +26,7 @@ Aqui estão alguns dos projetos em que estou trabalhando ou que desenvolvi recen
 ## 🔧 Tecnologias e Ferramentas
 
 - **Linguagens:** JavaScript, TypeScript, Python
-- **Frameworks:** React.js, Redux.js, Pandas
+- **Frameworks:** React.js, Redux.js, Streamlit
 - **Ferramentas:** Git, Docker, VSCode, NVim, Linux, Pycharm, Obsidian 
 - **Sistemas Operacionais:** Arch Linux, Debian
 
