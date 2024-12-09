@@ -42,12 +42,12 @@ Sou um entusiasta da tecnologia, apaixonado por desenvolvimento web e ciência d
 - **Front-End Developer (React)** - HackerRank (Setembro 2024)
 - **Engenharia de Dados com Python** - NTT Data (91 horas)
 
-### 🚀 Projetos Recentes:
+<!-- ### 🚀 Projetos Recentes:
 [![Projeto 1](https://img.shields.io/badge/📊_Análise_de_Dados_Python-green)](https://github.com/Davi-Ti/projeto1)  
 **Descrição**: Automação de processos e geração de insights com Python.
 
 [![Projeto 2](https://img.shields.io/badge/💻_Aplicação_Web_React-green)](https://github.com/Davi-Ti/projeto2)  
-**Descrição**: Desenvolvimento de uma aplicação web completa utilizando React.
+**Descrição**: Desenvolvimento de uma aplicação web completa utilizando React. -->
 
 ### Studying in this moment:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
