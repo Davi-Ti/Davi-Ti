@@ -1,11 +1,9 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=228B22&height=120&section=header)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Davi+Oliveira;Sou+Desenvolvedor+Front-End+e+Engenheiro+de+Dados;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 ## 🎯 Sobre mim:
 Sou um profissional apaixonado por tecnologia, com experiência em **Desenvolvimento Front-End** e **Engenharia de Dados**. Atualmente, atuo como **Analista de TI** na Coopertuni Logística, onde desenvolvo e mantenho pipelines de dados, implemento soluções de ETL escaláveis e crio aplicações web para otimização de processos. 
 
-Tenho habilidades sólidas em **React**, **TypeScript**, **Python**, **SQL** e ferramentas como **Airflow**, **Databricks**, **Snowflake** e **DBT Core**. Além disso, estou cursando **Ciência da Computação** e **Ciência de Dados** na Anhanguera, buscando constantemente aprimorar minhas competências e aplicar soluções inovadoras que agreguem valor aos projetos.
+Tenho habilidades sólidas em **React**, **TypeScript**, **Python**, **SQL** e ferramentas como **Next.js**, **Redux**, **Airflow**, **Databricks**, **Snowflake** e **DBT Core**. Além disso, estou cursando **Ciência da Computação** e **Ciência de Dados** na Anhanguera, buscando constantemente aprimorar minhas competências e aplicar soluções inovadoras que agreguem valor aos projetos.
 
 ---
 
@@ -13,8 +11,6 @@ Tenho habilidades sólidas em **React**, **TypeScript**, **Python**, **SQL** e f
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Davi-Ti&show_icons=true&count_private=true&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=c9d1d9&bg_color=0d1117" alt="Davi Oliveira GitHub stats" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Ti&layout=compact&hide_border=true&title_color=00FF7F&text_color=00FF7F&bg_color=0d1117" />
 </div>
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Davi-Ti&bg_color=000000&color=00FF7F&line=32CD32&point=00FF7F&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -64,12 +60,3 @@ Tenho habilidades sólidas em **React**, **TypeScript**, **Python**, **SQL** e f
 <a href="https://github.com/Davi-Ti" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="mailto:davi.network@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
-
----
-
-<div align="center">
-<br><p align="center"><b>Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Davi-Ti}/count.svg" /></p>
-<br></div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=228B22&height=120&section=footer)
