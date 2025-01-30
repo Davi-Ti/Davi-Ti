@@ -1,11 +1,11 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=228B22&height=120&section=header)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Davi+Oliveira;Tenho+19+anos;Sou+de+Visconde+do+Rio+Branco,+MG;Sou+Analista+de+TI+e+Desenvolvedor+Front-End;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Davi+Oliveira;Sou+Desenvolvedor+Front-End+e+Engenheiro+de+Dados;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 ## 🎯 Sobre mim:
-Sou Analista de TI na Coopertruni Logística, atuando com engenharia de dados e automação de processos. Tenho experiência no desenvolvimento e manutenção de pipelines de dados com SQL Server, além da implementação de soluções escaláveis de ETL. No Front-End, utilizo React e suas tecnologias para criar aplicações voltadas à otimização de processos e visualização de dados.
+Sou um profissional apaixonado por tecnologia, com experiência em **Desenvolvimento Front-End** e **Engenharia de Dados**. Atualmente, atuo como **Analista de TI** na Coopertuni Logística, onde desenvolvo e mantenho pipelines de dados, implemento soluções de ETL escaláveis e crio aplicações web para otimização de processos. 
 
-Atualmente, estou cursando **Ciência da Computação** e **Ciência de Dados** na Anhanguera, buscando sempre aprimorar minhas habilidades e aplicar soluções inovadoras que agreguem valor aos projetos.
+Tenho habilidades sólidas em **React**, **TypeScript**, **Python**, **SQL** e ferramentas como **Airflow**, **Databricks**, **Snowflake** e **DBT Core**. Além disso, estou cursando **Ciência da Computação** e **Ciência de Dados** na Anhanguera, buscando constantemente aprimorar minhas competências e aplicar soluções inovadoras que agreguem valor aos projetos.
 
 ---
 
@@ -19,13 +19,14 @@ Atualmente, estou cursando **Ciência da Computação** e **Ciência de Dados** 
 ---
 
 ## 🚀 Tecnologias e Ferramentas:
+
 ### **Linguagens:**
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
 
-### **Desenvolvimento Web:**
+### **Desenvolvimento Front-End:**
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-0D1117?style=for-the-badge&logo=redux&labelColor=0D1117)&nbsp;
@@ -72,4 +73,3 @@ Atualmente, estou cursando **Ciência da Computação** e **Ciência de Dados** 
 <br></div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=228B22&height=120&section=footer)
-
