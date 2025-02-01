@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Davi+Oliveira;Desenvolvedor+Front-End+e+Engenheiro+de+Dados;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Davi+Oliveira;Developer+Front-End+e+Data+Engineer;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 ## 🎯 Sobre mim:
 Sou um profissional apaixonado por tecnologia, com experiência em **Desenvolvimento Front-End** e **Engenharia de Dados**. Atualmente, atuo como **Analista de TI** na Coopertuni Logística, onde desenvolvo e mantenho pipelines de dados, implemento soluções de ETL escaláveis e crio aplicações web para otimização de processos. 
